@@ -6,5 +6,6 @@ A new Flutter project.
 
 This is a cross platform application made for tourists who wanna discover new places 
 
- The project is ongoing and bring improved 
+ The project is ongoing and being improved 
+
 Note that there is limited code available due to space limit in github
